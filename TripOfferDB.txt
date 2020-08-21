@@ -1,0 +1,4 @@
+219.99, 7, EU, false
+349.99, 10, AS, true
+290.99, 14, AF, false
+199.99, 8, SA, true
